@@ -6,8 +6,7 @@ At a high level, Kubernetes has the following main components:
 - Worked nodes
 - Distributed key-value stor, like **etcd**
 
-![Image of Architecture]
-(https://prod-edxapp.edx-cdn.org/assets/courseware/v1/8f441b27101be805bc286e67adc671a2/asset-v1:LinuxFoundationX+LFS158x+1T2018+type@asset+block/Kubernetes_Architecture1.png)
+![Image of Architecture](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/8f441b27101be805bc286e67adc671a2/asset-v1:LinuxFoundationX+LFS158x+1T2018+type@asset+block/Kubernetes_Architecture1.png)
 
 # Master nodes
 
